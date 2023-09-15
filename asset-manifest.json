@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RandomColorsAndLimbs/static/css/main.073c9b0a.css",
+    "main.js": "/RandomColorsAndLimbs/static/js/main.2f935b87.js",
+    "static/js/787.cfd8ccb6.chunk.js": "/RandomColorsAndLimbs/static/js/787.cfd8ccb6.chunk.js",
+    "index.html": "/RandomColorsAndLimbs/index.html",
+    "main.073c9b0a.css.map": "/RandomColorsAndLimbs/static/css/main.073c9b0a.css.map",
+    "main.2f935b87.js.map": "/RandomColorsAndLimbs/static/js/main.2f935b87.js.map",
+    "787.cfd8ccb6.chunk.js.map": "/RandomColorsAndLimbs/static/js/787.cfd8ccb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2f935b87.js"
+  ]
+}
